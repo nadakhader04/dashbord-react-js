@@ -134,7 +134,7 @@ const Header=()=>{
                                             <div className='dropdownInfo'>
                                                 <h4>
                                                     <span>
-                                                        <b> Sajid Ayman</b>added to his favorite list
+                                                        <b> Duha Rabaya</b>added to his favorite list
                                                         <b>Leather bolt stave madden</b>
                                                     </span>
 

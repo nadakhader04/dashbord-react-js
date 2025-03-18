@@ -5,10 +5,10 @@ is an admin dashboard application built using React.js. It leverages modern web 
 
 #### Technologies Used:
   - React.js
-  - CSS
-  - React CSS Styling
+  - CSS & React CSS Styling
   - Bootstrap
   - Material UI (MUI)
+  - React Router
 
 ![image](https://github.com/user-attachments/assets/48b6c5a0-be12-4768-8d89-2c2757ef628e)
 

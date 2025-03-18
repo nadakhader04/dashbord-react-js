@@ -36,7 +36,6 @@ const Header=()=>{
 
     const [anchorEl, setAnchorEl] =  useState(null);
     const [notificationAnchorEl, setNotificationAnchorEl] = useState(null);
-    const [isLogin, setIsLogin] = useState(false);
     const openMyAcc = Boolean(anchorEl);
     const openNotification = Boolean(notificationAnchorEl);
     const context = useContext(MyContext);
@@ -125,7 +124,7 @@ const Header=()=>{
                                             <div style={{marginBottom: '40px'}}>
                                                 <div className='userImg d-flex align-items-center'>
                                                     <span className='rounded-circle'>
-                                                        <img src={medium}></img>
+                                                        <img src='https://i.pinimg.com/736x/d4/fd/e8/d4fde837765f365f2d76f6bc406b4cb0.jpg'></img>
                                                     </span>
                                                 </div>
                                             </div>
@@ -209,7 +208,7 @@ const Header=()=>{
                                             <div className='dropdownInfo'>
                                                 <h4>
                                                     <span>
-                                                    <b>Baraa Hjazy</b>liked your comment on <b>"10 Best Beaches in the World"</b>
+                                                    <b> besan raddad</b>liked your comment on <b>"10 Best Beaches in the World"</b>
 
                                                     </span>
 

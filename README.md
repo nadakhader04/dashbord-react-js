@@ -1,4 +1,4 @@
-# Admin Dashboard Application
+# admin dashboard application
 
 is an admin dashboard application built using React.js. It leverages modern web development technologies to provide a responsive.  The dashboard allows store administrators to manage the product listings and get detailed insights into the store's performance.
 
@@ -6,10 +6,16 @@ is an admin dashboard application built using React.js. It leverages modern web 
 #### Technologies Used:
   - React.js
   - CSS
+  - React CSS Styling
   - Bootstrap
   - Material UI (MUI)
 
 ![image](https://github.com/user-attachments/assets/48b6c5a0-be12-4768-8d89-2c2757ef628e)
+
+* # React Router 
+Use React Router to route to pages based on URL
+
+![image](https://github.com/user-attachments/assets/11cc16ea-7aea-4144-90d9-e84c8bfbec38)
 
 
 * # Login Process

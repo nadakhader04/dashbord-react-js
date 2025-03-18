@@ -124,7 +124,7 @@ const Header=()=>{
                                             <div style={{marginBottom: '40px'}}>
                                                 <div className='userImg d-flex align-items-center'>
                                                     <span className='rounded-circle'>
-                                                        <img src='https://i.pinimg.com/736x/d4/fd/e8/d4fde837765f365f2d76f6bc406b4cb0.jpg'></img>
+                                                        <img src={medium}></img>
                                                     </span>
                                                 </div>
                                             </div>

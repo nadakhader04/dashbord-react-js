@@ -1,4 +1,4 @@
-# admin dashboard application
+# Admin Dashboard Application
 
 is an admin dashboard application built using React.js. It leverages modern web development technologies to provide a responsive.  The dashboard allows store administrators to manage the product listings and get detailed insights into the store's performance.
 
